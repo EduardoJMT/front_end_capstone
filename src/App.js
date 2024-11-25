@@ -1,19 +1,7 @@
-import { Fragment } from "react";
-import "./App.css";
-import Header from "./components/Header";
-import NavBar from "./components/NavBar";
-import Main from "./components/Main";
-import Footer from "./components/Footer";
+import Main from './components/Main/Main';
 
 function App() {
-  return (
-    <Fragment className="App">
-      <Header />
-      <NavBar />
-      <Main />
-      <Footer />
-    </Fragment>
-  );
+  return <Main />;
 }
 
 export default App;
