@@ -78,8 +78,4 @@ const BookingForm = ({ availableTimes, dispatch }) => {
 - [React Docs (Rendering Lists) ](https://reactnative.dev/docs/stylesheet) - This helped me for rendering lists in the navbar. I really liked their documentation and will use it going forward.  
 - [React Testing Library ](https://testing-library.com/docs/react-testing-library/intro/) - This helped me for creating unit tests in React.
 - [React Router (useNavigate)](https://reactrouter.com/en/6.5.0/hooks/use-navigate) - This helped me for redirecting user to a confirmed booking page.
-## Author
 
-- Website - [Marvin Morales Pacis](https://marvin-morales-pacis.vercel.app/)
-- LinkedIn - [@marventures](https://www.linkedin.com/in/marventures/)
-- Twitter - [@marventures11](https://www.twitter.com/marventures11)
